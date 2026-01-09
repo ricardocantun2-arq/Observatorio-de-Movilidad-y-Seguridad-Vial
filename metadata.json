@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IMDUT Portal Digital",
+  "description": "Plataforma digital integral para la movilidad urbana y metropolitana de Yucatán, gestionada por el IMDUT.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
